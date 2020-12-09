@@ -14,7 +14,7 @@ namespace CSharpBasics
             // Comparison operator returns boolean value
 
             Console.WriteLine(5 < 10); // Outputs True
-            Console.WriteLine(5 == 10); // Outputs Falses
+            Console.WriteLine(5 == 10); // Outputs False
         }
     }
 }
